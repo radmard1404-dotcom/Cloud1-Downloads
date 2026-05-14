@@ -1,0 +1,43 @@
+{
+  "destination": "release",
+  "tag": "co-releases-v1-1479",
+  "folder": "Software__ubuntu-26.04-desktop-amd64_20260514212725_7320a5",
+  "base_name": "Software__ubuntu-26.04-desktop-amd64_20260514212725_7320a5.iso",
+  "is_split": true,
+  "part_count": 4,
+  "release_url": "https://github.com/radmard1404-dotcom/Cloud1-Downloads/releases/tag/co-releases-v1-1479",
+  "files": [
+    {
+      "name": "Software__ubuntu-26.04-desktop-amd64_20260514212725_7320a5.iso.part00",
+      "url": "https://github.com/radmard1404-dotcom/Cloud1-Downloads/releases/download/co-releases-v1-1479/Software__ubuntu-26.04-desktop-amd64_20260514212725_7320a5.iso.part00",
+      "api_url": "https://api.github.com/repos/radmard1404-dotcom/Cloud1-Downloads/releases/assets/420479633",
+      "id": 420479633,
+      "size": 1629743616,
+      "download_count": 0
+    },
+    {
+      "name": "Software__ubuntu-26.04-desktop-amd64_20260514212725_7320a5.iso.part01",
+      "url": "https://github.com/radmard1404-dotcom/Cloud1-Downloads/releases/download/co-releases-v1-1479/Software__ubuntu-26.04-desktop-amd64_20260514212725_7320a5.iso.part01",
+      "api_url": "https://api.github.com/repos/radmard1404-dotcom/Cloud1-Downloads/releases/assets/420480052",
+      "id": 420480052,
+      "size": 1629743616,
+      "download_count": 0
+    },
+    {
+      "name": "Software__ubuntu-26.04-desktop-amd64_20260514212725_7320a5.iso.part02",
+      "url": "https://github.com/radmard1404-dotcom/Cloud1-Downloads/releases/download/co-releases-v1-1479/Software__ubuntu-26.04-desktop-amd64_20260514212725_7320a5.iso.part02",
+      "api_url": "https://api.github.com/repos/radmard1404-dotcom/Cloud1-Downloads/releases/assets/420480539",
+      "id": 420480539,
+      "size": 1629743616,
+      "download_count": 0
+    },
+    {
+      "name": "Software__ubuntu-26.04-desktop-amd64_20260514212725_7320a5.iso.part03",
+      "url": "https://github.com/radmard1404-dotcom/Cloud1-Downloads/releases/download/co-releases-v1-1479/Software__ubuntu-26.04-desktop-amd64_20260514212725_7320a5.iso.part03",
+      "api_url": "https://api.github.com/repos/radmard1404-dotcom/Cloud1-Downloads/releases/assets/420481104",
+      "id": 420481104,
+      "size": 1629743616,
+      "download_count": 0
+    }
+  ]
+}
